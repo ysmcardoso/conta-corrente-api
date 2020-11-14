@@ -11,7 +11,7 @@
     <groupId>com.labsit</groupId>
     <artifactId>conta-corrente</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>conta-corrente</name>
     <description>Projeto com operações básicas para o gerenciamento de conta corrente</description>
 
